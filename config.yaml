@@ -1,0 +1,9 @@
+
+path: 'C:/Users/Shahin Kaushar/Desktop/New1r/images'# dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0:Aeroplane 
+  1:Helicopter
